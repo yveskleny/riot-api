@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+spreadsheet-automator-447722-d5895f049d3e.json
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
